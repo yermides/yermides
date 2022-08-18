@@ -6,6 +6,9 @@
   - https://www.linkedin.com/in/lucas-mataix-garrigos/
   - lsmataix@gmail.com
 
+Also, this is my Itch.io page, where you can find some projects I've published so you can play them!
+- https://yermides.itch.io/
+
 <!---
 yermides/yermides is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
